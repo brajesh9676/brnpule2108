@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+
+
+// @import '../../src/screens/LandingPage.module.css';
+
+
+// @import '_studentDashboard.scss';
+@import './_manageUser.scss';
+
+@import './_landingPage.scss';
+
+
+@import '_loginPage.scss';
+
+@import '_leavePage.scss';
+
+@import '_studentNavbar.scss';
+
+@import '_adminNavbar.scss';
+
+@import '_signUpPage.scss';
+
+
+@import '_messages.scss';
+
+@import '_stuTask.scss';
+@import '_taskReview.scss';
+@import '_adminMessages.scss';
+
+@import '_createrequests.scss';
+
+
+@import '_batches.scss';
+
+@import '_ranking.scss';
+
+
+@import '_batches.scss';
+
+@import '_adminPresentation.scss';
